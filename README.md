@@ -17,7 +17,7 @@ A simple, interactive **Rock-Paper-Scissors** game where you play against the co
 
 ## 🚀 Live Preview
 
-🌐 [Live Preview Link](https://your-netlify-link.netlify.app)
+🌐 [Live Preview Link](https://rockpaperscissors29.netlify.app/)
 
 ---
 
